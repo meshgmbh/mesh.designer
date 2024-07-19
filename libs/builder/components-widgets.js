@@ -13,7 +13,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-https://github.com/givanz/VvvebJs
+
 */
 
 Vvveb.ComponentsGroup['Widgets'] = ["widgets/googlemaps", "widgets/embed-video", "widgets/chartjs", "widgets/lottie",/* "widgets/facebookpage", */"widgets/paypal", /*"widgets/instagram",*/ "widgets/twitter", "widgets/openstreetmap"/*, "widgets/facebookcomments"*/];
@@ -513,7 +513,7 @@ Vvveb.Components.extend("_base", "widgets/paypal", {
 				<input type="hidden" name="cmd" value="_donations">\
 \
 				<!-- Specify details about the contribution -->\
-				<input type="hidden" name="item_name" value="VvvebJs">\
+				<input type="hidden" name="item_name" value="design.mesh.app">\
 				<input type="hidden" name="item_number" value="Support">\
 				<input type="hidden" name="currency_code" value="USD">\
 \

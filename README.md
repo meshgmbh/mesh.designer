@@ -1,7 +1,7 @@
-# VvvebJs
+# design.mesh.app
 
 <p align="center">
-  <img src="https://www.vvveb.com/admin/themes/default/img/biglogo.png" alt="Vvveb">
+  <img src="https://www.vvveb.com/admin/themes/default/img/biglogo.png" alt="mesh.">
   <br><br>
   <strong>Drag and drop page builder javascript library.</strong>
   <br>
@@ -9,15 +9,15 @@
 </p>
 <p align="center">
   <a href="https://www.vvveb.com">Website</a> |
-  <a href="https://github.com/givanz/VvvebJs/wiki">Documentation</a> |
-  <a href="https://github.com/givanz/VvvebJs/discussions">Forum</a> |
+  <a href="/wiki">Documentation</a> |
+  <a href="/discussions">Forum</a> |
   <a href="https://twitter.com/vvvebcms">Twitter</a> 
 </p>
 
 
-## [Live Demo](https://www.vvveb.com/vvvebjs/editor.html)
+## [Live Demo](https://design.mesh.app)
 
-For a full featured Open Source CMS using VvvebJs page builder check [Vvveb CMS](https://github.com/givanz/Vvveb)
+For a full featured Open Source CMS using design.mesh.app page builder check [Vvveb CMS](https://github.com/givanz/Vvveb)
 
 Using [Vvveb landing page template](https://github.com/givanz/landing) for demo page and Bootstrap 5 sections and blocks.
 
@@ -55,10 +55,10 @@ By default the editor comes with Bootstrap 5 and Widgets components and can be e
 * Clone the repository 
 ```bash
 #git 2.13+ 
-git clone --recurse-submodules https://github.com/givanz/VvvebJs
+git clone --recurse-submodules 
 
 # older git versions 
-git clone --recursive https://github.com/givanz/VvvebJs
+git clone --recursive 
 ```
 
 * Pull changes 
@@ -79,7 +79,7 @@ To use the image upload or page save feature you need to have php installed.
 
 ### Local development
 
-From VvvebJs folder run
+From design.mesh.app folder run
 
 ```bash
 docker-compose up
@@ -107,7 +107,7 @@ Saving is done using [save.php](save.php)
 
 ### Node
 
-For node go to VvvebJs folder and run
+For node go to design.mesh.app folder and run
 
 ```bash
 npm install express
@@ -243,7 +243,7 @@ npm run gulp watch
 
 ## Documentation
 
-For documentation check the [wiki](https://github.com/givanz/VvvebJs/wiki)
+For documentation check the [wiki](/wiki)
 
 ## Support
 

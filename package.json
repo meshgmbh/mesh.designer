@@ -1,20 +1,20 @@
 {
-  "name": "vvvebjs",
+  "name": "design.mesh.app",
   "description": "Drag and drop website builder javascript library",
   "version": "0.0.1",
   "author": "Ziadin Givan",
   "license": "Apache-2.0",
-  "homepage": "https://www.vvveb.com/vvvebjs/editor.html",
+  "homepage": "https://design.mesh.app",
   "main": "libs/builder/builder.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/givanz/VvvebJs.git"
+    "url": ".git"
   },
   "dependencies": {
     "express": "^4.19.2"
   },
   "keywords": [
-    "vvvebjs",
+    design.mesh.app,
     "drag-drop",
     "drag&drop",
     "drag",
