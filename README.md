@@ -1,14 +1,14 @@
 # design.mesh.app
 
 <p align="center">
-  <img src="https://www.vvveb.com/admin/themes/default/img/biglogo.png" alt="mesh.">
+  <img src="https://design.mesh.app/admin/themes/default/img/biglogo.png" alt="mesh.">
   <br><br>
   <strong>Drag and drop page builder javascript library.</strong>
   <br>
   <span>Built with Vanilla Js with no dependencies or build tools and Bootstrap 5</span>
 </p>
 <p align="center">
-  <a href="https://www.vvveb.com">Website</a> |
+  <a href="https://design.mesh.app">Website</a> |
   <a href="/wiki">Documentation</a> |
   <a href="/discussions">Forum</a> |
   <a href="https://twitter.com/vvvebcms">Twitter</a> 
@@ -21,8 +21,8 @@ For a full featured Open Source CMS using design.mesh.app page builder check [Vv
 
 Using [Vvveb landing page template](https://github.com/givanz/landing) for demo page and Bootstrap 5 sections and blocks.
 
-<img src="https://www.vvveb.com/img/dark-theme.png">
-<img src="https://www.vvveb.com/img/light-theme.png">
+<img src="https://design.mesh.app/img/dark-theme.png">
+<img src="https://design.mesh.app/img/light-theme.png">
 
 ### Features
 

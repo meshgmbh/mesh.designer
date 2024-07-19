@@ -1363,7 +1363,7 @@ Vvveb.Components.extend("_base", "html/iframe", {
 	attributes: ["data-component-iframe"],
     name: "Iframe",
     image: "icons/file.svg",
-    html: '<div data-component-iframe><iframe src="https://www.vvveb.com" width="320" height="240"></iframe></div>',
+    html: '<div data-component-iframe><iframe src="https://design.mesh.app" width="320" height="240"></iframe></div>',
 	properties: [{
         name: "Src",
         key: "src",
